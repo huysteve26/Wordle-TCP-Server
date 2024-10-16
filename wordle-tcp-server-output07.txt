@@ -1,0 +1,24 @@
+MAIN: opened wordle_words07.txt (5757 words)
+MAIN: seeded pseudo-random number generator with 91
+MAIN: Wordle server listening on port {8199}
+MAIN: rcvd incoming connection request
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: stare
+THREAD 140503995819776: sending reply: st--e (5 guesses left)
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: xytes
+THREAD 140503995819776: invalid guess; sending reply: ????? (5 guesses left)
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: bytes
+THREAD 140503995819776: sending reply: --teS (4 guesses left)
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: feats
+THREAD 140503995819776: sending reply: -E-TS (3 guesses left)
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: melts
+THREAD 140503995819776: sending reply: ME-TS (2 guesses left)
+THREAD 140503995819776: waiting for guess
+THREAD 140503995819776: rcvd guess: meets
+THREAD 140503995819776: sending reply: MEETS (1 guess left)
+THREAD 140503995819776: game over; word was MEETS!
+MAIN: SIGUSR1 rcvd; Wordle server shutting down...

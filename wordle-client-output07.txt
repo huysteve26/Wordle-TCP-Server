@@ -1,0 +1,15 @@
+CLIENT: connecting to server...
+CLIENT: sending to server: stare
+CLIENT: response: st--e -- 5 guesses remaining
+CLIENT: sending to server: xytes
+CLIENT: invalid guess -- 5 guesses remaining
+CLIENT: sending to server: bytes
+CLIENT: response: --teS -- 4 guesses remaining
+CLIENT: sending to server: feats
+CLIENT: response: -E-TS -- 3 guesses remaining
+CLIENT: sending to server: melts
+CLIENT: response: ME-TS -- 2 guesses remaining
+CLIENT: sending to server: meets
+CLIENT: response: MEETS -- 1 guess remaining
+CLIENT: you won!
+CLIENT: disconnecting...

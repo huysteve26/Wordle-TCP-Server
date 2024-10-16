@@ -1,0 +1,15 @@
+MAIN: opened wordle_words08.txt (5757 words)
+MAIN: seeded pseudo-random number generator with 104
+MAIN: Wordle server listening on port {8199}
+MAIN: rcvd incoming connection request
+THREAD 140622829975296: waiting for guess
+THREAD 140622829975296: rcvd guess: stare
+THREAD 140622829975296: sending reply: st--e (5 guesses left)
+THREAD 140622829975296: waiting for guess
+THREAD 140622829975296: rcvd guess: meets
+THREAD 140622829975296: sending reply: -E-TS (4 guesses left)
+THREAD 140622829975296: waiting for guess
+THREAD 140622829975296: rcvd guess: debts
+THREAD 140622829975296: sending reply: DEBTS (3 guesses left)
+THREAD 140622829975296: game over; word was DEBTS!
+MAIN: SIGUSR1 rcvd; Wordle server shutting down...

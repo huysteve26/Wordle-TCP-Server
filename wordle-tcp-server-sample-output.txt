@@ -1,0 +1,162 @@
+MAIN: opened knuth.txt (5757 words)
+MAIN: seeded pseudo-random number generator with 575
+MAIN: Wordle server listening on port {8999}
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: stern
+THREAD 140459076257536: sending reply: S---- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: swish
+THREAD 140459076257536: sending reply: SW-s- (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: swaps
+THREAD 140459076257536: sending reply: SWA-S (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: swags
+THREAD 140459076257536: sending reply: SWAGS (2 guesses left)
+THREAD 140459076257536: game over; word was SWAGS!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: stare
+THREAD 140459076257536: sending reply: s--r- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: props
+THREAD 140459076257536: sending reply: -ro-S (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: rooks
+THREAD 140459076257536: sending reply: rO--S (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: fords
+THREAD 140459076257536: sending reply: -OR-S (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: borgs
+THREAD 140459076257536: invalid guess; sending reply: ????? (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: corns
+THREAD 140459076257536: sending reply: -ORnS (1 guess left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: norms
+THREAD 140459076257536: sending reply: NORMS (0 guesses left)
+THREAD 140459076257536: game over; word was NORMS!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: stare
+THREAD 140459076257536: sending reply: ---rE (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: bribe
+THREAD 140459076257536: sending reply: -R--E (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: grove
+THREAD 140459076257536: sending reply: -R--E (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: prude
+THREAD 140459076257536: sending reply: PRUDE (2 guesses left)
+THREAD 140459076257536: game over; word was PRUDE!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: rests
+THREAD 140459076257536: sending reply: -e--S (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: hypes
+THREAD 140459076257536: sending reply: --peS (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: apers
+THREAD 140459076257536: sending reply: -PE-S (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: opens
+THREAD 140459076257536: sending reply: OPENS (2 guesses left)
+THREAD 140459076257536: game over; word was OPENS!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: abaci
+THREAD 140459076257536: sending reply: a---- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: stray
+THREAD 140459076257536: sending reply: -tRa- (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: tarot
+THREAD 140459076257536: sending reply: TAR-- (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: tared
+THREAD 140459076257536: sending reply: TARED (2 guesses left)
+THREAD 140459076257536: game over; word was TARED!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: crazy
+THREAD 140459076257536: sending reply: --az- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: azure
+THREAD 140459076257536: sending reply: az--e (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: fazes
+THREAD 140459076257536: sending reply: -AZE- (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: hazel
+THREAD 140459076257536: sending reply: HAZE- (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: hazes
+THREAD 140459076257536: sending reply: HAZE- (1 guess left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: hazed
+THREAD 140459076257536: sending reply: HAZED (0 guesses left)
+THREAD 140459076257536: game over; word was HAZED!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: graph
+THREAD 140459076257536: sending reply: --a-- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: adieu
+THREAD 140459076257536: sending reply: a---u (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: mauls
+THREAD 140459076257536: sending reply: -Au-S (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: tamus
+THREAD 140459076257536: invalid guess; sending reply: ????? (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: tabus
+THREAD 140459076257536: sending reply: TABUS (2 guesses left)
+THREAD 140459076257536: game over; word was TABUS!
+MAIN: rcvd incoming connection request
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: wowie
+THREAD 140459076257536: invalid guess; sending reply: ????? (6 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: yowza
+THREAD 140459076257536: invalid guess; sending reply: ????? (6 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: okays
+THREAD 140459076257536: sending reply: ---y- (5 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: yikes
+THREAD 140459076257536: sending reply: yI--- (4 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: zippy
+THREAD 140459076257536: sending reply: -I--Y (3 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: hilly
+THREAD 140459076257536: sending reply: -Il-Y (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: libby
+THREAD 140459076257536: invalid guess; sending reply: ????? (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: lichy
+THREAD 140459076257536: invalid guess; sending reply: ????? (2 guesses left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: limey
+THREAD 140459076257536: sending reply: LI--Y (1 guess left)
+THREAD 140459076257536: waiting for guess
+THREAD 140459076257536: rcvd guess: lilty
+THREAD 140459076257536: sending reply: LI-TY (0 guesses left)
+THREAD 140459076257536: game over; word was LINTY!
+MAIN: SIGUSR1 rcvd; Wordle server shutting down...
+MAIN: valid guesses: 38
+MAIN: win/loss: 7/1
+MAIN: word #1: SWAGS
+MAIN: word #2: NORMS
+MAIN: word #3: PRUDE
+MAIN: word #4: OPENS
+MAIN: word #5: TARED
+MAIN: word #6: HAZED
+MAIN: word #7: TABUS
+MAIN: word #8: LINTY

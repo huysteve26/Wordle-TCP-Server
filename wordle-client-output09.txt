@@ -1,0 +1,27 @@
+CLIENT: connecting to server...
+CLIENT: sending to server: stare
+CLIENT: response: s---E -- 5 guesses remaining
+CLIENT: sending to server: pulse
+CLIENT: response: ---SE -- 4 guesses remaining
+CLIENT: sending to server: house
+CLIENT: response: ho-SE -- 3 guesses remaining
+CLIENT: connecting to server...
+CLIENT: sending to server: stern
+CLIENT: response: --e-- -- 5 guesses remaining
+CLIENT: sending to server: fleck
+CLIENT: response: --eC- -- 4 guesses remaining
+CLIENT: sending to server: voice
+CLIENT: response: ---CE -- 3 guesses remaining
+CLIENT: sending to server: bocce
+CLIENT: response: ---CE -- 2 guesses remaining
+CLIENT: sending to server: deice
+CLIENT: response: DE-CE -- 1 guess remaining
+CLIENT: disconnecting...
+CLIENT: sending to server: mouse
+CLIENT: response: -o-SE -- 2 guesses remaining
+CLIENT: sending to server: moose
+CLIENT: response: --OSE -- 1 guess remaining
+CLIENT: sending to server: worse
+CLIENT: response: -o-SE -- 0 guesses remaining
+CLIENT: game over!
+CLIENT: disconnecting...

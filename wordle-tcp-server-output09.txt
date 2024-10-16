@@ -1,0 +1,43 @@
+MAIN: opened wordle_words09.txt (5757 words)
+MAIN: seeded pseudo-random number generator with 117
+MAIN: Wordle server listening on port {8199}
+MAIN: rcvd incoming connection request
+THREAD 140087865919232: waiting for guess
+THREAD 140087865919232: rcvd guess: stare
+THREAD 140087865919232: sending reply: s---E (5 guesses left)
+THREAD 140087865919232: waiting for guess
+THREAD 140087865919232: rcvd guess: pulse
+THREAD 140087865919232: sending reply: ---SE (4 guesses left)
+THREAD 140087865919232: waiting for guess
+THREAD 140087865919232: rcvd guess: house
+THREAD 140087865919232: sending reply: ho-SE (3 guesses left)
+THREAD 140087865919232: waiting for guess
+MAIN: rcvd incoming connection request
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: rcvd guess: stern
+THREAD 140087857526528: sending reply: --e-- (5 guesses left)
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: rcvd guess: fleck
+THREAD 140087857526528: sending reply: --eC- (4 guesses left)
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: rcvd guess: voice
+THREAD 140087857526528: sending reply: ---CE (3 guesses left)
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: rcvd guess: bocce
+THREAD 140087857526528: sending reply: ---CE (2 guesses left)
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: rcvd guess: deice
+THREAD 140087857526528: sending reply: DE-CE (1 guess left)
+THREAD 140087857526528: waiting for guess
+THREAD 140087857526528: client gave up; closing TCP connection...
+THREAD 140087857526528: game over; word was DEUCE!
+THREAD 140087865919232: rcvd guess: mouse
+THREAD 140087865919232: sending reply: -o-SE (2 guesses left)
+THREAD 140087865919232: waiting for guess
+THREAD 140087865919232: rcvd guess: moose
+THREAD 140087865919232: sending reply: --OSE (1 guess left)
+THREAD 140087865919232: waiting for guess
+THREAD 140087865919232: rcvd guess: worse
+THREAD 140087865919232: sending reply: -o-SE (0 guesses left)
+THREAD 140087865919232: game over; word was CHOSE!
+MAIN: SIGUSR1 rcvd; Wordle server shutting down...
